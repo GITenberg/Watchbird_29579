@@ -31,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2960
     wikipedia: http://en.wikipedia.org/wiki/Robert_Sheckley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29579#Watchbird
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-08-02'
 gutenberg_type: Text
